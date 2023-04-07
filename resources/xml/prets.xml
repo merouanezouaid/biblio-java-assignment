@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Prets>
+  <Pret id="3">
+    <adherant ad_id="3" />
+    <oeuvre oe_id="2" />
+    <date_empreinte>2018-01-01</date_empreinte>
+  </Pret>
+  <Pret id="7">
+    <adherant ad_id="2" />
+    <oeuvre oe_id="2" />
+    <date_empreinte>2018-01-01</date_empreinte>
+  </Pret>
+</Prets>
+

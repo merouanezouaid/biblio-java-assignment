@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oeuvres>
+  <oeuvre id="2">
+    <titre>The Pragramic Programmer</titre>
+    <categorie>Programming</categorie>
+    <auteur>David Malan</auteur>
+    <editeur>Warda Production</editeur>
+    <annee>2002</annee>
+    <status>true</status>
+  </oeuvre>
+  <oeuvre id="5">
+    <titre>Titre</titre>
+    <categorie>Categorie</categorie>
+    <auteur>Auteur</auteur>
+    <editeur>Editeur</editeur>
+    <annee>2011</annee>
+    <status>false</status>
+  </oeuvre>
+</oeuvres>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adherants>
+  <adherant id="3">
+    <nom>What</nom>
+    <prenom>Kid</prenom>
+    <adresse>UK</adresse>
+    <email>nopetoothree@gmail.com</email>
+  </adherant>
+  <adherant id="11">
+    <nom>Nom2</nom>
+    <prenom>Prenom2</prenom>
+    <adresse>Adresse123</adresse>
+    <email>Email@yopmail.com</email>
+  </adherant>
+  <adherant id="2">
+    <nom>Nom4</nom>
+    <prenom>Prenom4</prenom>
+    <adresse>Adresse7</adresse>
+    <email>Email7</email>
+  </adherant>
+  <adherant id="19">
+    <nom>Nomez</nom>
+    <prenom>Prenomds</prenom>
+    <adresse>Adresse</adresse>
+    <email>Emaildsds</email>
+  </adherant>
+</adherants>
+
